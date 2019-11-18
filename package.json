@@ -14,7 +14,7 @@
     "ejs": "~2.3.3",
     "express": "~4.13.1",
     "express-session": "^1.14.2",
-    "morgan": "~1.6.1",
+    "morgan": "~1.9.1",
     "node-xlsx": "*",
     "passport": "^0.3.2",
     "passport-idaas-openidconnect": "^2.0.1",
