@@ -11,7 +11,7 @@
     "cloudant": "*",
     "cookie-parser": "~1.3.5",
     "debug": "~2.2.0",
-    "ejs": "~2.3.3",
+    "ejs": "~2.7.2",
     "express": "~4.13.1",
     "express-session": "^1.14.2",
     "morgan": "~1.6.1",
